@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi,there! <img src='https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png' width="40px"/>
 
-<!--
-**WalterHere/WalterHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/WalterHere/WalterHere/blob/main/header.png?raw=true)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Experienced software engineer with 8 years of web development.
+
+#### Always thrives on challenges and love solving complicated technical issues.
+
+#### Potentially put emphasis on team collaboration and cooperation.
+
+#### Continuously keep up to date with modern technologies frameworks and standards.
+
+# **_One man’s crappy software is another man’s full-time job._**
